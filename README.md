@@ -3,7 +3,7 @@
 > 企业级知识库 RAG 问答平台。支持文档入库、自动切片、混合检索、引用溯源、权限控制、问答日志和 RAG 评测闭环。
 
 <p align="center">
-  <img src="docs/images/dashboard.png" alt="Dashboard" width="92%" />
+  <img src="docs/images/dashboard.jpg" alt="Dashboard" width="92%" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ This project is not a simple chatbot demo. It is a complete enterprise RAG workf
 Upload enterprise documents, parse content, generate chunks and rebuild indexes when needed.
 
 <p align="center">
-  <img src="docs/images/ingest.png" alt="Knowledge ingestion" width="92%" />
+  <img src="docs/images/ingest.jpg" alt="Knowledge ingestion" width="92%" />
 </p>
 
 ### RAG Question Answering
@@ -56,7 +56,7 @@ Upload enterprise documents, parse content, generate chunks and rebuild indexes 
 Ask questions against a selected knowledge base. The answer panel shows citations, retrieval evidence, confidence and model metadata.
 
 <p align="center">
-  <img src="docs/images/qa.png" alt="RAG question answering" width="92%" />
+  <img src="docs/images/qa.jpg" alt="RAG question answering" width="92%" />
 </p>
 
 ### Evaluation Dashboard
@@ -64,7 +64,7 @@ Ask questions against a selected knowledge base. The answer panel shows citation
 Track retrieval hit rate, citation rate, latency and case-level evaluation results.
 
 <p align="center">
-  <img src="docs/images/eval.png" alt="RAG evaluation" width="92%" />
+  <img src="docs/images/eval.jpg" alt="RAG evaluation" width="92%" />
 </p>
 
 ## Features
@@ -288,4 +288,3 @@ Current notes:
 ## License
 
 This project is intended for learning, portfolio display and internal RAG workflow exploration.
-
