@@ -2,9 +2,7 @@
 
 > 企业级知识库 RAG 问答平台。支持文档入库、自动切片、混合检索、引用溯源、权限控制、问答日志和 RAG 评测闭环。
 
-<p align="center">
-  <img src="docs/images/dashboard.jpg" alt="Dashboard" width="92%" />
-</p>
+![Dashboard](./docs/images/dashboard.jpg)
 
 <p align="center">
   <a href="#quick-start"><img alt="Docker" src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white"></a>
@@ -47,25 +45,19 @@ This project is not a simple chatbot demo. It is a complete enterprise RAG workf
 
 Upload enterprise documents, parse content, generate chunks and rebuild indexes when needed.
 
-<p align="center">
-  <img src="docs/images/ingest.jpg" alt="Knowledge ingestion" width="92%" />
-</p>
+![Knowledge ingestion](./docs/images/ingest.jpg)
 
 ### RAG Question Answering
 
 Ask questions against a selected knowledge base. The answer panel shows citations, retrieval evidence, confidence and model metadata.
 
-<p align="center">
-  <img src="docs/images/qa.jpg" alt="RAG question answering" width="92%" />
-</p>
+![RAG question answering](./docs/images/qa.jpg)
 
 ### Evaluation Dashboard
 
 Track retrieval hit rate, citation rate, latency and case-level evaluation results.
 
-<p align="center">
-  <img src="docs/images/eval.jpg" alt="RAG evaluation" width="92%" />
-</p>
+![RAG evaluation](./docs/images/eval.jpg)
 
 ## Features
 
