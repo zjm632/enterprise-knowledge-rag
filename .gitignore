@@ -1,0 +1,11 @@
+.env
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+.venv/
+node_modules/
+dist/
+data/uploads/
+eval_report.json
+*.pyc

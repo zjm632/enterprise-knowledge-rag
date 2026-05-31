@@ -1,0 +1,7 @@
+[
+  {
+    "knowledge_base_id": "请替换为实际知识库 ID",
+    "question": "企业知识库支持哪些文档格式？",
+    "expected_keyword": "文档"
+  }
+]
