@@ -2,7 +2,7 @@
 
 > 企业级知识库 RAG 问答平台。支持文档入库、自动切片、混合检索、引用溯源、权限控制、问答日志和 RAG 评测闭环。
 
-![Dashboard](https://github.com/jianmingz458-lgtm/enterprise-knowledge-rag/releases/download/readme-assets-v1/dashboard.png)
+![Dashboard](assets/screenshots/dashboard.png)
 
 <p align="center">
   <a href="#quick-start"><img alt="Docker" src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white"></a>
@@ -45,19 +45,19 @@ This project is not a simple chatbot demo. It is a complete enterprise RAG workf
 
 Upload enterprise documents, parse content, generate chunks and rebuild indexes when needed.
 
-![Knowledge ingestion](https://github.com/jianmingz458-lgtm/enterprise-knowledge-rag/releases/download/readme-assets-v1/ingest.png)
+![Knowledge ingestion](assets/screenshots/ingest.png)
 
 ### RAG Question Answering
 
 Ask questions against a selected knowledge base. The answer panel shows citations, retrieval evidence, confidence and model metadata.
 
-![RAG question answering](https://github.com/jianmingz458-lgtm/enterprise-knowledge-rag/releases/download/readme-assets-v1/qa.png)
+![RAG question answering](assets/screenshots/qa.png)
 
 ### Evaluation Dashboard
 
 Track retrieval hit rate, citation rate, latency and case-level evaluation results.
 
-![RAG evaluation](https://github.com/jianmingz458-lgtm/enterprise-knowledge-rag/releases/download/readme-assets-v1/eval.png)
+![RAG evaluation](assets/screenshots/eval.png)
 
 ## Features
 
